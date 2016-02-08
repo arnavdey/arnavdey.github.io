@@ -1,0 +1,106 @@
+/*body {
+  margin-top: 30px;
+}*/
+
+/*
+.navbar-inverse{
+}*/
+
+.navbar-inverse .navbar-brand {
+  font-family: 'Gloria Hallelujah', cursive;
+  font-size: 36px;
+  color: #ff3061;
+  padding-top: 20px;
+}
+h1.title {
+  padding: 0 30px 30px 0;
+}
+h2 {
+  font-size: 22px;
+}
+.rating {
+  font-size: 0.4em;
+  text-transform: uppercase;
+  border: 1px solid #ccc;
+  padding: 4px;
+  vertical-align: middle;
+}
+.summary h2, .actors h2 {
+  margin-top: 0;
+}
+.actors li {
+  line-height: 24px;
+}
+.firm {
+  margin-bottom: 30px;
+}
+
+/*#left{
+  background: rgb(100,100,255);
+}*/
+
+@media (min-width: 1000px){
+  #left {
+    position: fixed;
+  /*  top: 0px;
+    bottom: 0;
+    left: 0;
+    width: 25%;*/
+    border = 0px;
+    /*overflow-y: scroll; */
+  }
+
+  #right {
+    /*position: absolute;*/
+   /* top: 0;
+    bottom: 0;
+    right: 0;*/
+/*    overflow-y: scroll;
+*/  /*  width: 75%;*/
+  }
+}
+
+/*.fixed{
+  position: fixed;
+}
+
+
+html, body, * {
+    padding: 0;
+    margin: 0;
+}
+p, h3 {
+    padding: 1em 0 .5em 0;
+}
+
+.wrapper {
+    min-width: 500px;
+    max-width: 700px;
+    margin: 70px;
+}
+#content {
+    background: #bbb;
+    margin-right: 0px;  /* = sidebar width + some white space */
+}
+#overlay {
+    position: fixed;
+    top: 150px;
+    width: 100%;
+    height: 100%;
+}
+#overlay .wrapper {
+    height: 100%;
+}
+#sidebar {
+    background: #ddd;
+    width: 250px;
+    float: left;
+    max-height: 100%;
+}
+#sidebar:hover {
+    overflow-y: auto;
+}
+#sidebar>* {
+    max-width: 225px; /* leave some space for vertical scrollbar */
+}
+*/
